@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUNIL BISHNOI</h1>
-<h3 align="center">👨‍💻 B.Tech CSE student | Cyber Security & Networking 🌐 | Passionate about tech, ethical hacking 🚀 👨‍💻 📧 Connect: sunilkbishnoi83@gmail.com | Let's secure the digital future! 💼</h3>
+<h3 align="center">👨‍💻 B.Tech CSE student | Cyber Security & Networking 🌐 | Passionate about tech, ethical hacking 🚀👨‍💻    📧 Connect: sunilkbishnoi83@gmail.com | Let's secure the digital future! 💼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkbishnoi&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkbishnoi" /> </p>
 
