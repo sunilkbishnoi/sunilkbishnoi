@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://sunilbishnoi.bio/](http://sunilbishnoi.bio/)
 
-- 📫 How to reach me **sunilkbishnoi83@gmail.com**
+- 📫 How to reach me **sunilkbishnoi83@gmail.com..**
 
 - 📄 Know about my experiences [https://sunilbishnoi.carrd.co/](https://bishnoisunil.vercel.app/)
 
