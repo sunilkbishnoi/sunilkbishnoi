@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security certifications, Networking protocols**
 
-- 👨‍💻 All of my projects are available at [http://sunilbishnoi.bio/](http://sunilbishnoi.bio/)
+- 👨‍💻 All of my projects are available at [https://bishnoisunil.vercel.app/]([http://sunilbishnoi.bio/](https://bishnoisunil.vercel.app/))
 
 - 📫 How to reach me **sunilkbishnoi83@gmail.com**
 
