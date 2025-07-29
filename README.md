@@ -1,6 +1,6 @@
 <!-- Terminal Typing Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%3E_+Hey+I'm+SUNIL+BISHNOI;Cyber+Security+%26+Networking+Student;CTF+Player+%7C+TryHackMe+%7C+Always+Learning...;Let's+Secure+the+Digital+World+%F0%9F%94%91" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E_+Hey+I'm+SUNIL+BISHNOI;Cyber+Security+%26+Networking+Student;CTF+Player+%7C+TryHackMe+%7C+Always+Learning...;Let's+Secure+the+Digital+World+%F0%9F%94%91" />
 </h1>
 
 <!-- Hacker GIF -->
