@@ -104,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/hAF9aHqGQz0AAAAC/matrix-code.gif" width="300" />
+  <img src="https://media.tenor.com/hAF9aHqGQz0AAAAC/matrix-code.gif" width="600" />
 </p>
 
 ---
