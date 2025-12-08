@@ -9,6 +9,8 @@
 </p>
 
 ---
+![Demo](me.gif)
+---
 
 ### 🧠 SYSTEM OVERRIDE: PROFILE.INIT
 
