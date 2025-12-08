@@ -9,7 +9,7 @@
 </p>
 
 ---
-![Demo](me.gif)
+(me.gif)
 ---
 
 ### 🧠 SYSTEM OVERRIDE: PROFILE.INIT
