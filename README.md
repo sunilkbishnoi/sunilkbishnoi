@@ -5,7 +5,7 @@
 
 <!-- Hacker GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/hacker.gif" width="400" />
+  <img src="gifs/skull.gif" width="400" />
 </p>
 
 ---
