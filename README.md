@@ -23,6 +23,10 @@
 ````
 
 ---
+<!-- DATA GIF -->
+<p align="center">
+  <img src="gifs/digital-data.gif" width="400" />
+</p>
 
 ### ⚔️ ACTIVE TERMINALS
 
