@@ -1,1 +1,1 @@
-[<img src="https://api.microlink.io/?url=https://resume.sunilbishnoi.in&screenshot=true&meta=false&embed=screenshot.url" width="1000" alt="Resume website preview" />](https://resume.sunilbishnoi.in/)
+[<img src="https://api.microlink.io/?url=https://resume.sunilbishnoi.in&screenshot=true&meta=false&embed=screenshot.url&fullPage=true" width="800" alt="Resume website preview" />](https://resume.sunilbishnoi.in/)
