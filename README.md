@@ -1,0 +1,1 @@
+[![Resume](https://img.shields.io/badge/Resume-View_Now-1f6feb?style=for-the-badge)](https://resume.sunilbishnoi.in/)
